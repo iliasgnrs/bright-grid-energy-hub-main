@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# ElecTracking - Smart Energy Management System
 
 ## Project info
 

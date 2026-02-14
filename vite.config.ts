@@ -21,8 +21,8 @@ export default defineConfig(({ mode }) => ({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'Lovable App',
-        short_name: 'Lovable App',
+        name: 'ElecTracking',
+        short_name: 'ElecTracking',
         theme_color: '#ffffff',
         icons: [
           {
